@@ -46,7 +46,7 @@ There is a video about this exercise, watch it if you are lost. But don't copy e
 This exercise covers the following fundamentals:
 1. Basic structure for every HTML5 website.  
 2. The *Link* tag to import CSS Rules.  
-3. Using google fonts.  
+3. Using Google fonts.  
 3. Using the different selectors available in CSS.  
 4. Working with containers or boxes: border, padding, and margins.  
 5. Overflow.  
